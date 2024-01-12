@@ -1,0 +1,8 @@
+.button{
+    -fx-background-image: url("images/Pause.png");
+    -fx-background-color: TRANSPARENT;
+    -fx-alignment: center;
+    -fx-border-radius: 50,50,50,50;
+    -fx-background-size: 100% 100%;
+    -fx-background-radius: 100;
+}

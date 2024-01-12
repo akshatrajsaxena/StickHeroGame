@@ -1,0 +1,17 @@
+.button{
+    -fx-background-image: url("images/Sync.png");
+    -fx-background-color: TRANSPARENT;
+    -fx-alignment: center;
+    -fx-border-radius: 50,50,50,50;
+    -fx-background-size: 100% 100%;
+    -fx-background-radius: 100;
+}
+
+.button:hover{
+    -fx-background-image: url("images/Sync.png");
+    -fx-background-color: #c4c4c4;
+    -fx-alignment: center;
+    -fx-border-radius: 50,50,50,50;
+    -fx-background-size: 100% 100%;
+    -fx-background-radius: 100;
+}

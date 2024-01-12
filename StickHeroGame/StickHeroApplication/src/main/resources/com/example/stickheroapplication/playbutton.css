@@ -1,0 +1,13 @@
+.button{
+    -fx-background-radius: 100;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-background-color: #ea5e16;
+}
+
+.button:hover{
+    -fx-background-radius: 100;
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-background-color: #f68344;
+}
