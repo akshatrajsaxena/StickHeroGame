@@ -52,7 +52,7 @@ Game Over Screen: Displays the score and gives an option to restart the game.
 
 bash
 ```
-git clone https://github.com/your-username/stick-hero-game.git
+git clone https://github.com/akshatrajsaxena/stick-hero-game.git
 cd stick-hero-game
 ```
 
