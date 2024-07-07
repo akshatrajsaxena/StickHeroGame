@@ -96,4 +96,4 @@ If you have any questions or feedback, you can reach out to [Akshat Raj Saxena](
 
 ## Acknowledgements
 
-Special thanks to the creators of JavaFX and the contributors to this project [Vansh Aggarwal](https://github.com/VanshAg283).
+Special thanks to the creators of JavaFX and the contributor to this project [Vansh Aggarwal](https://github.com/VanshAg283).
