@@ -3,22 +3,13 @@
 <p align="center"><i>Experience the fun and challenge of the Stick Hero game!</i></p>
 
 <div align="center">
-  
   <a href="https://github.com/akshatrajsaxena/StickHeroGameProjects/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/StickHeroGameProjects" alt="Stars Badge"/></a>
-
-
   <a href="https://github.com/akshatrajsaxena/StickHeroGameProjects/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/StickHeroGameProjects" alt="Forks Badge"/></a>
-  
   <a href="https://github.com/akshatrajsaxena/StickHeroGameProjects/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/StickHeroGameProjects" alt="Pull Requests Badge"/></a>
-  
   <a href="https://github.com/akshatrajsaxena/StickHeroGameProjects/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/StickHeroGameProjects" alt="Issues Badge"/></a>
-  
   <a href="https://github.com/akshatrajsaxena/StickHeroGameProjects/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/akshatrajsaxena/StickHeroGameProjects" ?color=2b9348"></a>
-  
   <a href="https://github.com/akshatrajsaxena/StickHeroGameProjects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/StickHeroGameProjects ?color=2b9348" alt="License Badge"/></a>
-  
 </div>
-
 <br>
 
 # Stick Hero Game
